@@ -6,7 +6,7 @@ README dosvas1, bir adet de index.html barindryor.
 
 Öncelikle projeyi clonelayin. (Buraya sizin reponuzdan aldigniz link gelecek)
 
-''' git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git '''
+```git clone (https://github.com/cengizcmataraci/kodluyoruzilkrepo.git)```
 
 # Usage 
 
@@ -14,7 +14,7 @@ Projeyi cloneladiktan sonra Visual Studio Code programinda aciniz.
 
 Linux icin:
 
-'''  kodluyoruzilkrepo code '''
+``` code kodluyoruzilkrepo code```
 
 ## Contributing
 
@@ -24,5 +24,5 @@ istediginizi tartismak için bir konu aciniz.
 
 ## License
 
-[MIT] (https://github.com/Ravandr/kodluyoruzilkrepo.git)\
+[MIT](https://github.com/Ravandr/kodluyoruzilkrepo.git)
 
